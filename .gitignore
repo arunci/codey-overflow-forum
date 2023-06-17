@@ -25,3 +25,4 @@ yarn-error.log*
 /.prettierrc.json
 /.idea/prettier.xml
 /.idea/inspectionProfiles/Project_Default.xml
+/.idea
